@@ -1,0 +1,16 @@
+{
+  "apiID": "package_587da2__c__function_aadiu3cthyiru",
+  "apiName": "dgit_node20",
+  "label": {
+    "zh_CN": "dgit_node20",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
